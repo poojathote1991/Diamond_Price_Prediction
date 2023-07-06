@@ -1,0 +1,1 @@
+{"Cut": {"Ideal": 1, "Premium": 2, "Very Good": 3, "Good": 4, "Fair": 5}, "Clarity": {"SI1": 1, "VS2": 2, "SI2": 3, "VS1": 4, "VVS2": 5, "VVS1": 6, "IF": 7, "I1": 8}, "Column Name": ["carat", "cut", "clarity", "depth", "table", "x", "y", "z", "color_D", "color_E", "color_F", "color_G", "color_H", "color_I", "color_J"]}
